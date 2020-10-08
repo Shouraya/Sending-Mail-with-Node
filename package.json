@@ -1,0 +1,24 @@
+{
+  "name": "sending-mail-with-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shouraya/Sending-Mail-with-Node.git"
+  },
+  "author": "Shouraya Goyal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shouraya/Sending-Mail-with-Node/issues"
+  },
+  "homepage": "https://github.com/Shouraya/Sending-Mail-with-Node#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "nodemailer": "^6.4.13",
+    "nodemailer-express-handlebars": "^4.0.0"
+  }
+}
